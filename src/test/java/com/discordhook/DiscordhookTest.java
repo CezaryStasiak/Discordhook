@@ -1,4 +1,4 @@
-package cezarystasiak.discordhook;
+package com.discordhook;
 
 import org.junit.Test;
 
